@@ -1,1 +1,1 @@
-See wiki.
+MOSOM tutorial material available in Wiki
